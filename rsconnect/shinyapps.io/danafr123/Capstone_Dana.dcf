@@ -1,0 +1,14 @@
+name: Capstone_Dana
+title: Capstone_Dana
+username:
+account: danafr123
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5924843
+bundleId: 5777348
+url: https://danafr123.shinyapps.io/Capstone_Dana/
+when: 1649405372.7837
+lastSyncTime: 1649405372.7837
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: covid-indo.csv|JKSE.csv
